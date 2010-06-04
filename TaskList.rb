@@ -11,7 +11,9 @@ class TaskList
   end
   
   def add_task(new_task)
-    @list << new_task
+    raise TypeError, "Task argument expected" unless new_task.is_a? Task
+    @list.push new_task
+  
   end
   
   def search_by_course(course)

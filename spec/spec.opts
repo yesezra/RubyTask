@@ -1,0 +1,9 @@
+--colour
+--format
+progress
+--loadby
+mtime
+--reverse
+--timeout
+20
+--diff
