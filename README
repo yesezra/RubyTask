@@ -1,5 +1,13 @@
-This is just a simple Ruby task manager.
+RubyTask
 
-I'm porting it from a C++ class assignment. And trying to use Git.
+RubyTask is a simple, command-line Ruby task manager. RubyTask is a port of a set of C++ assignments I did for a class last term.
 
-Just a learning exercise. Nothing to see here.
+Usage
+Invoke bin/tasks to begin. Provide an optional command-line argument to specify a data file to load from and save to. The default data file is tasklist.txt in the current working directory.
+
+Data File
+Tasks are stored in a simple, plain-text data file (a format specified for my C++ assignment). Records are newline-delimited, and fields are semicolon-delimited.
+
+Author
+Ezra Spier, ezra.spier@gmail.com
+June 2010

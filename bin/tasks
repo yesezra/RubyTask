@@ -1,7 +1,6 @@
 #!/usr/bin/env ruby
 
-# Simple executable wrapper for Surrender's server/client dispatching
-
+# Simple executable wrapper for RubyTask
 tasks_dir = File.expand_path(File.join(File.dirname(__FILE__), '..', 'lib'))
 $LOAD_PATH.unshift(tasks_dir) unless $LOAD_PATH.include?(tasks_dir)
 

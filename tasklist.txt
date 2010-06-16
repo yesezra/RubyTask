@@ -1,3 +1,4 @@
-CS162;Lab 1;06/12/2010
-WR112;Personal Essay;07/01/2010
-CS260;Tree Lab;06/11/2010
+CS162;Lab 1: Shopping Calculator;04/08/2010
+CS162;Lab 2: Simple Task List;04/15/2010
+GEOL118;Minerals worksheet;06/12/2010
+JAPN201;Kanji worksheet;06/18/2010
